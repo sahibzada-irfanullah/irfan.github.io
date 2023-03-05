@@ -1,0 +1,21 @@
+@Article{Ullah2021,
+  author    = {Ullah, Irfan and Khan, Sharifullah and Imran, Muhammad and Lee, Young-Koo},
+  journal   = {Expert Systems with Applications},
+  title     = {RweetMiner: Automatic Identification and Categorization of Help Requests on Twitter during Disasters},
+  year      = {2021},
+  pages     = {114787},
+  volume    = {176},
+  publisher = {Elsevier},
+}
+
+@Article{Van2022,
+  author    = {Van, Duong Thi Thu and Khan, Muhammad Numan and Afridi, Tariq Habib and Ullah, Irfan and Alam, Aftab and Lee, Young-Koo},
+  journal   = {IEEE Access},
+  title     = {GDLL: A Scalable and Share Nothing Architecture Based Distributed Graph Neural Networks Framework},
+  year      = {2022},
+  pages     = {21684--21700},
+  volume    = {10},
+  publisher = {IEEE},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

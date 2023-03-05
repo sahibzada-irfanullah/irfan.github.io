@@ -1,0 +1,56 @@
+@article{alam2020video,
+  title={Video big data analytics in the cloud: A reference architecture, survey, opportunities, and open research issues},
+  author={Alam, Aftab and Ullah, Irfan and Lee, Young-Koo},
+  journal={IEEE Access},
+  volume={8},
+  pages={152377--152422},
+  year={2020},
+  publisher={IEEE}
+}
+
+@article{jamil2016adaptive,
+  title={Adaptive thresholding technique for segmentation and juxtapleural nodules inclusion in lung segments},
+  author={Jamil, Irfanullah and Butt, Shahid Ikramullah},
+  journal={International Journal of Bio-Science and Bio-Technology},
+  volume={8},
+  number={5},
+  pages={105--114},
+  year={2016}
+}
+
+@article{khan2020statistical,
+  title={STATISTICAL ANALYSIS AND INFERENCE ON FOURTEEN MOST EFFECTED COUNTRIES ON POLIO DATA: A ECOLOGICAL STUDY},
+  author={Khan, Muhammad Jibran and Khan, Muhammad Aman and Ullah, Irfan},
+  journal={WORLD JOURNAL OF PHARMACY AND PHARMACEUTICAL SCIENCES},
+  volume={9},
+  number={7},
+  pages={130--172},
+  year={2020}
+}
+
+@inproceedings{alam2021video,
+  title={Video Big Data Analytics in the Cloud: Research Issues and Challenges},
+  author={Alam, Aftab and Khalid, Shah and Khan, Muhammad Numan and Afridi, Tariq Habib and Ullah, Irfan and Lee, Young-Koo},
+  booktitle={Innovations in Smart Cities Applications Volume 4: The Proceedings of the 5th International Conference on Smart City Applications},
+  pages={1433--1448},
+  year={2021},
+  organization={Springer International Publishing}
+}
+
+@article{alam2019higher,
+  title={Higher-Level Context Inferences based on Ontology For Intelligent Video Surveillance},
+  author={Alam, Aftab and Khan, Jawad and Uddin, MD Azher and Khan, Muhammad Numan and Ullah, Irfan and Lee, Young-Koo},
+  journal={한국정보과학회 학술발표논문집},
+  pages={984--986},
+  year={2019}
+}
+
+@article{khan2020improved,
+  title={An improved co-training approach for document Sentiment classification},
+  author={Khan, Jawad and Alam, Aftab and Khan, Muhammad Numan and Ullah, Irfan and Umair, Muhammad and Qudus, Umair and Afridi, Tariq Habib and Park, Sung Soo and Lee, Young-Koo},
+  journal={한국정보과학회 학술발표논문집},
+  pages={791--793},
+  year={2020}
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
