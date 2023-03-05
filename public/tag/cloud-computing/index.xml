@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud computing | Academic</title>
+    <link>https://example.com/tag/cloud-computing/</link>
+      <atom:link href="https://example.com/tag/cloud-computing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cloud computing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 13 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Cloud computing</title>
+      <link>https://example.com/tag/cloud-computing/</link>
+    </image>
+    
+    <item>
+      <title>Video Big Data Analytics in the Cloud: Research Issues and Challenges</title>
+      <link>https://example.com/publication/alam-2021-video/</link>
+      <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/alam-2021-video/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to download the Bibtex citation of the paper.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;PDF&lt;/em&gt; button above to download the paper.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Code&lt;/em&gt; button above to download the source code.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;+++
+abstract = &amp;ldquo;NA&amp;rdquo;
+abstract_short = &amp;ldquo;NA&amp;rdquo;
+authors = [&amp;ldquo;Alam, Aftab&amp;rdquo;, &amp;ldquo;Ullah, Irfan&amp;rdquo;, &amp;ldquo;Lee, Young-Koo&amp;rdquo;]
+date = &amp;ldquo;2020-01-01&amp;rdquo;
+image_preview = &amp;quot;&amp;quot;
+math = true
+publication_types = [&amp;ldquo;2&amp;rdquo;]
+publication = &amp;ldquo;IEEE Access&amp;rdquo;
+publication_short = &amp;ldquo;IEEE Access 2020, 8, 152377-152422&amp;rdquo;
+selected = false
+title = &amp;ldquo;Video big data analytics in the cloud: A reference architecture, survey, opportunities, and open research issues&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;+++&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Video big data analytics in the cloud: A reference architecture, survey, opportunities, and open research issues</title>
+      <link>https://example.com/publication/alam-2020-video-1/</link>
+      <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/alam-2020-video-1/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to download the Bibtex citation of the paper.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;PDF&lt;/em&gt; button above to download the paper.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
